@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'rubiklight_italic';
-    src: font_url('rubik-lightitalic-webfont.woff2') format('woff2'),
-         font_url('rubik-lightitalic-webfont.woff') format('woff');
+    src: url('rubik-lightitalic-webfont.woff2') format('woff2'),
+         url('rubik-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'rubikmedium';
-    src: font_url('rubik-medium-webfont.woff2') format('woff2'),
-         font_url('rubik-medium-webfont.woff') format('woff');
+    src: url('rubik-medium-webfont.woff2') format('woff2'),
+         url('rubik-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
